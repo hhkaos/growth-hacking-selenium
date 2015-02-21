@@ -1,5 +1,5 @@
 # Growth Hacking Selenium
-Growth Hacks para Selinum
+Growth Hacks para Seleninum
 
 Aquí voy a ir poniendo una recopilación de scripts creados con el objetivo de automatizar algunas tareas que pueden ayudarte a aumentar tu visibilidad en redes sociales.
 
